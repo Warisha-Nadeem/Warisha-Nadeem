@@ -12,71 +12,31 @@
 - 🎨 Passionate about **UI/UX Design (Figma + Frontend Development)**
 - 🤖 Exploring **Machine Learning & Data Science**
 - 🌱 Continuously improving my development & design skills  
+---
+## 💻 Tech Stack:
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
 ---
 
-## 🛠️ Skills & Technologies
-
-### 💻 Development
-- Flutter / Dart  
-- HTML, CSS, JavaScript  
-- Firebase (Authentication, Firestore)  
-- Supabase  
-
-### 🎨 Design
-- Figma (UI/UX Design)  
-- Responsive Web Design  
-- Frontend UI Development  
-
-### 🤖 Other Skills
-- Python  
-- Machine Learning (Basics)  
-- WordPress
-- Java
-- C
-
----
-
-## 🌟 Featured Projects
-
-### 🎉 EventSphere
-A platform where users can explore upcoming events with details like title, date, venue, and description.  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 🛍️ Ecommerce App
-A modern e-commerce web app to sell resin and crochet products with user-friendly UI.  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 🌍 Traveling Website
-A responsive travel website showcasing destinations and travel experiences.  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 🏨 Accommodation Website
-A platform for travelers to book rooms, share journeys, and explore accommodations.  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 🏋️ AI Workout App (FYP - In Progress)
-- AI-based posture detection  
-- Personalized workout plans  
-- Exercise tracking & real-time monitoring  
-- Diet & water intake tracking  
-
-**Tech:** Flutter, Firebase, Machine Learning  
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: warishanadeem7860@gmail.com 
